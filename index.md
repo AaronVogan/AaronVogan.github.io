@@ -1,4 +1,1 @@
-# Lab Members
-Aaron Vogan
-
-Linnéa Sandall
+[Lab Members](https://AaronVogan.github.io/Lab-Members)
