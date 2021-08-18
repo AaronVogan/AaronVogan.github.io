@@ -1,1 +1,4 @@
-# Fungal Accessory Genome Evolution -- Fungage Lab
+# Lab Members
+Aaron Vogan
+
+Linnéa Sandall
