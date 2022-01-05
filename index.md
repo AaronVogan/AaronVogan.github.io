@@ -1,1 +1,1 @@
-[Lab Members](https://AaronVogan.github.io/Lab-Members.html)
+[Lab Members](https://AaronVogan.github.io/Lab-Members.md)
