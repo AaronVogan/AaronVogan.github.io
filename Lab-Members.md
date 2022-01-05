@@ -1,8 +1,8 @@
-
+---
 title: "Lab Members"
 layout: page
-permalink: /LabMembers/
-
+permalink: /Lab-Members/
+---
 Aaron Vogan
 
 Linnéa Sandall
